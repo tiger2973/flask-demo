@@ -1,6 +1,6 @@
 ﻿click
 Flask
-itsdangerous=
+itsdangerous
 Jinja2
 MarkupSafe
 Werkzeug
